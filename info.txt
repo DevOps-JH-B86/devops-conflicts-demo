@@ -7,3 +7,5 @@ Course curriculam:
 linux, git, maven, docker
 
 address details: street 123
+
+added new line
