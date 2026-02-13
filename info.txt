@@ -7,3 +7,4 @@ Course curriculam:
 linux, git, maven, docker
 
 address details: street 123
+Timings: 7-8:30am
