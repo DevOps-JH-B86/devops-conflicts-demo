@@ -3,3 +3,5 @@ Welcome to DevOps
 Courses offered: DevOps, Java
 
 Contact Details: +91 99999 99999
+Course curriculam:
+linux, git, maven, docker
